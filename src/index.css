@@ -1,7 +1,17 @@
 .highlight {
-    background-color: blue;
+    background-color: teal;
 }
 
 .navbar-style {
     background-color: navy!important;
+}
+
+.green-highlight {
+    color: green;
+    font-size: 40px;
+}
+
+.red-highlight {
+    color: red;
+    font-size: 25px;
 }
